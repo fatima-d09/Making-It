@@ -2,7 +2,7 @@
 
 a little pixel art life sim set in new york. you make a character, pick a starter job, and try not to get evicted lol
 
-**play it here:** https://YOUR-USERNAME.github.io/making-it/ (change this to your link)
+**play it here:** <a href="https://fatima-d09.github.io/Making-It/" target="_blank" style="text-decoration: none; font-weight: bold;">LINK</a>
 
 ---
 
